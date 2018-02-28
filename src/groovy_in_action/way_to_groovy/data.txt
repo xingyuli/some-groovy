@@ -1,0 +1,7 @@
+了解如何做错误处理 // later
+学习ES6和Typescript // OK
+用Typescript重写所有JS // later: 修复类型为any的地方
+优化封装service中http的访问和错误处理 // later
+统一所有的ActionBar
+编写Android的location service插件
+使用开场页面/动画
