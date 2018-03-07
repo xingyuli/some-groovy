@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 07 Mar 2018 12:22:59 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Russian spy: Police keen to speak to Salisbury visitors]]></title>
+            <description><![CDATA[Every statement is important, police say, as a Russian ex-spy and his daughter remain critically ill.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43312625</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43312625</guid>
+            <pubDate>Wed, 07 Mar 2018 11:27:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D638/production/_100304845_skripals.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: EU to set out guidelines for trade talks]]></title>
+            <description><![CDATA[The UK insists financial services must be part of a trade deal, as the EU sets out what it wants.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-43314976</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-43314976</guid>
+            <pubDate>Wed, 07 Mar 2018 11:26:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8DEB/production/_100313363_gettyimages-585605642-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM to raise Yemen concerns in Saudi crown prince visit]]></title>
+            <description><![CDATA[Theresa May will raise the Yemen conflict during trade talks with Mohammed bin Salman.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-43308416</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-43308416</guid>
+            <pubDate>Wed, 07 Mar 2018 09:12:34 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/FE5C/production/_98661156_p05mfchf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parsons Green: Tube bomb 'designed to cause carnage']]></title>
+            <description><![CDATA[A London Underground train at Parsons Green was intended to cause "maximum harm", a court hears.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43318098</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43318098</guid>
+            <pubDate>Wed, 07 Mar 2018 12:22:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EAB2/production/_98028006_c9a5a34f-b0c5-43eb-95b8-494bd0cd845e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michelle Obama dances with Parker the portrait girl]]></title>
+            <description><![CDATA[The former first lady met Parker after a photo of the toddler mesmerised by the painting went viral.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43309542</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43309542</guid>
+            <pubDate>Wed, 07 Mar 2018 01:11:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/11652/production/_100305217_p060b9sh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two million households to get 'big freeze' payments]]></title>
+            <description><![CDATA[The government is set to pay out £50m in Cold Weather Payments, after last week's cold snap]]></description>
+            <link>http://www.bbc.co.uk/news/business-43315957</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43315957</guid>
+            <pubDate>Wed, 07 Mar 2018 11:42:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15523/production/_100313378_gettyimages-926145726.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stormy Daniels sues Trump over 'hush agreement']]></title>
+            <description><![CDATA[Stormy Daniels says a nondisclosure contract she signed over an alleged sexual affair is invalid.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43312158</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43312158</guid>
+            <pubDate>Wed, 07 Mar 2018 04:37:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/29C4/production/_100029601_untitled-aasfeeee1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, six, died after doctor 'failed to spot meningitis']]></title>
+            <description><![CDATA[Layla Rose Ermenekli had a rash consistent with meningitis on her hip at hospital, an inquest hears.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-43310931</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-43310931</guid>
+            <pubDate>Wed, 07 Mar 2018 11:09:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11A4E/production/_100307227_layla.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK house price growth lowest for 5 years, says Halifax]]></title>
+            <description><![CDATA[The average price of a home has fallen by more than £2,000 since November, according to the Halifax.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43314465</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43314465</guid>
+            <pubDate>Wed, 07 Mar 2018 09:50:22 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/D8D7/production/_100311555_gettyimages-503663416.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why using 'dog-speak' improves our bond with dogs]]></title>
+            <description><![CDATA[Dogs are more likely to interact with people who use a high-pitched voice, research suggests.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43315466</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43315466</guid>
+            <pubDate>Wed, 07 Mar 2018 12:08:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EC0F/production/_100313406_dogspeak.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diver swims through 'horrifying plastic cloud']]></title>
+            <description><![CDATA[Rich Horner filmed himself swimming through rubbish off the island of Nusa Penida near Bali.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-43303523</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-43303523</guid>
+            <pubDate>Wed, 07 Mar 2018 02:30:44 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/482F/production/_100297481_p0607mxd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Terminal illness led to Australia's first same-sex marriage]]></title>
+            <description><![CDATA[A dying woman and her partner were the first same-sex couple to legally marry, it is revealed.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-43312043</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-43312043</guid>
+            <pubDate>Wed, 07 Mar 2018 08:06:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B14E/production/_100309354_jo-jill-159marionjonkersphotography.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['People don't expect me to be a bus mechanic']]></title>
+            <description><![CDATA[Pamela Chapman was a single mother with poor qualifications, now she's an award-winning bus mechanic.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43317118</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43317118</guid>
+            <pubDate>Wed, 07 Mar 2018 12:04:52 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7C61/production/_100314813_de28.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guess how many calories are in your lunch]]></title>
+            <description><![CDATA[Newsbeat went to find out if people could guess how many calories are in typical lunchtime meals.]]></description>
+            <link>http://www.bbc.co.uk/news/newsbeat-43314187</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/newsbeat-43314187</guid>
+            <pubDate>Wed, 07 Mar 2018 11:55:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C86F/production/_100311315_p060c97d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First UK polar bear cub in 25 years emerges from den]]></title>
+            <description><![CDATA[It is not yet known if the cub, born at a park in the Scottish Highlands, is a boy or a girl.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-highlands-islands-43315406</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-highlands-islands-43315406</guid>
+            <pubDate>Wed, 07 Mar 2018 09:30:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6285/production/_100312252_cub.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washington DC dumps homeless people's belongings]]></title>
+            <description><![CDATA[Washington, DC has the highest rate of homelessness in the US. The city's remedy is under scrutiny.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43262949</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43262949</guid>
+            <pubDate>Wed, 07 Mar 2018 00:05:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BD89/production/_100312584_p0609yrt_edit.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Speculation on spy case]]></title>
+            <description><![CDATA[The possible poisoning of a former Russian spy and his daughter continues to dominate the headlines.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-43311078</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-43311078</guid>
+            <pubDate>Wed, 07 Mar 2018 05:55:29 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6FFE/production/_100307682_index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grime through time: A brief history of one of the UK's biggest music genres]]></title>
+            <description><![CDATA[These are the moments that helped make grime one of the biggest music genres to come out of the UK.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43216803</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43216803</guid>
+            <pubDate>Wed, 07 Mar 2018 05:09:20 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/1852E/production/_100203699_p05zj9rs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The British Library's race to save old audio recordings]]></title>
+            <description><![CDATA[The recordings are on more than 40 different formats and some are degrading due to decay.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43231982</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43231982</guid>
+            <pubDate>Wed, 07 Mar 2018 00:16:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/501E/production/_100301502_p060868r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The fun stops here: Derelict theme parks]]></title>
+            <description><![CDATA[What happens to the parks after the gates are closed for the final time?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-43289004</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-43289004</guid>
+            <pubDate>Wed, 07 Mar 2018 01:30:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7CD6/production/_100285913_335e402000000578-0-image-a-1_1461162574509.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meghan Markle's final Suits shows are about to land]]></title>
+            <description><![CDATA[Suits fans are excited to see how Meghan's character, Rachel Zane, leaves the show]]></description>
+            <link>http://www.bbc.co.uk/news/newsbeat-43302798</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/newsbeat-43302798</guid>
+            <pubDate>Tue, 06 Mar 2018 17:49:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0988/production/_100304420_shutterstock_editorial_5881582n_huge.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'quintessentially English' home of a Russian spy]]></title>
+            <description><![CDATA[It's the centre of a modern-day mystery, but what do Salisbury residents make of its new-found fame?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-43305405</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-43305405</guid>
+            <pubDate>Tue, 06 Mar 2018 16:41:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/163C7/production/_100297019_sals3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Mon, 22 Jan 2018 07:22:00 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How a single punch changed soul singer Only Girl's life]]></title>
+            <description><![CDATA[Ellen Murphy's boyfriend sustained brain damage in an unprovoked attack. She turned to music to help.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-43304369</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-43304369</guid>
+            <pubDate>Wed, 07 Mar 2018 01:17:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C558/production/_100302505_93f13ac2-e816-4bbb-9e62-9f60c9ec15bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Immigration: Who should we let in after Brexit?]]></title>
+            <description><![CDATA[What should the UK's immigration policy look like after we leave the EU?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43301325</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43301325</guid>
+            <pubDate>Wed, 07 Mar 2018 11:29:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12C8D/production/_100314967_gettyimages-453634192.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charli Howard: Is this really a 'plus-size' model?]]></title>
+            <description><![CDATA[Charli Howard went from being an anorexic teenager to a campaigner for body positivity.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-43229462</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-43229462</guid>
+            <pubDate>Wed, 07 Mar 2018 01:21:49 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/5C59/production/_100314632_02_2291copy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I had no exams but I got the job']]></title>
+            <description><![CDATA[How do you get jobs without a single qualification with experience in industries that no longer exist?]]></description>
+            <link>http://www.bbc.co.uk/news/education-43198204</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43198204</guid>
+            <pubDate>Wed, 07 Mar 2018 01:18:20 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/E03C/production/_100240475_maxineturner.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Islanders still in shelter, six months after Irma]]></title>
+            <description><![CDATA[Six months after Hurricane Irma tore a path of destruction through the Caribbean, how are UK citizens faring?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43303537</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43303537</guid>
+            <pubDate>Tue, 06 Mar 2018 20:43:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8B7E/production/_100301753_roselynhill.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I was raped as a student - and I’m not the only one']]></title>
+            <description><![CDATA[After she was raped as a student Hannah Price began a campaign to shed light on the problem of sexual assault at university.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-43258170</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-43258170</guid>
+            <pubDate>Tue, 06 Mar 2018 01:11:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8BCC/production/_100288753_promoyellow.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Lego not clicking with customers?]]></title>
+            <description><![CDATA[With falling revenues and profits, did the company fail to build bridges with its customers last year?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43300087</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43300087</guid>
+            <pubDate>Tue, 06 Mar 2018 17:19:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/98DA/production/_100303193_lego4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q&A: Could US-Canada border solve Irish dilemma?]]></title>
+            <description><![CDATA[The prime minister looks towards the United States and Canada to help solve the Irish border issue.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-43302493</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-43302493</guid>
+            <pubDate>Tue, 06 Mar 2018 11:40:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/64EF/production/_100293852__95399331_gettyimages-686893.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The story of women's football in 10 objects]]></title>
+            <description><![CDATA[100 years ago, women's football was popular and profitable. Then the Football Association banned it]]></description>
+            <link>http://www.bbc.co.uk/news/business-43139535</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43139535</guid>
+            <pubDate>Tue, 06 Mar 2018 00:11:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12669/production/_100296357_footydolls.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand v England: Ross Taylor makes career-best 181 to level ODI series]]></title>
+            <description><![CDATA[Ross Taylor's stunning 181 not out helps New Zealand beat England by five wickets and level the one-day series at 2-2 with a game remaining.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/43311878</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/43311878</guid>
+            <pubDate>Wed, 07 Mar 2018 06:52:26 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/BB12/production/_100309874_taylor_afp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shane Sutton: Sir Bradley Wiggins & former Team Sky doctor need to 'tell the truth']]></title>
+            <description><![CDATA[Sir Bradley Wiggins and former doctor Richard Freeman need to "come forward and tell the truth", says ex-Team Sky coach Shane Sutton.]]></description>
+            <link>http://www.bbc.co.uk/sport/cycling/43310183</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cycling/43310183</guid>
+            <pubDate>Wed, 07 Mar 2018 08:35:54 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B126/production/_100305354_sutton.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations 2018: Wales coach Warren Gatland makes 10 changes for Italy]]></title>
+            <description><![CDATA[Wales head coach Warren Gatland makes 10 changes for Sunday's Six Nations game against Italy.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/43311678</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/43311678</guid>
+            <pubDate>Wed, 07 Mar 2018 11:06:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/3C51/production/_100314451_cubby.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations: Blair Kinghorn makes his first start for Scotland against Ireland]]></title>
+            <description><![CDATA[Blair Kinghorn is handed his first Scotland start as winger Tommy Seymour misses out against Ireland in the Six Nations through injury.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/43313933</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/43313933</guid>
+            <pubDate>Wed, 07 Mar 2018 11:13:10 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6A05/production/_100314172_14626757.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Commonwealth Games: BBC to provide more than 200 hours of coverage]]></title>
+            <description><![CDATA[The BBC will provide more than 200 hours of coverage of April's Commonwealth Games in Australia across TV, radio and online.]]></description>
+            <link>http://www.bbc.co.uk/sport/commonwealth-games/43308650</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/commonwealth-games/43308650</guid>
+            <pubDate>Wed, 07 Mar 2018 10:00:15 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1778C/production/_100304169_cg-index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South African triathlete Mhlengi Gwala in hospital after attack with saw]]></title>
+            <description><![CDATA[South African triathlete Mhlengi Gwala is reportedly attacked while training by three men attempting to cut off his legs with a saw.]]></description>
+            <link>http://www.bbc.co.uk/sport/triathlon/43313998</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/triathlon/43313998</guid>
+            <pubDate>Wed, 07 Mar 2018 11:03:01 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/145D3/production/_100311438_gwala_pierretostee_mrpfoundation.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Florida school shooting: One mother, two gun attacks]]></title>
+            <description><![CDATA[Celia recovered from a parent's worst nightmare. Then it happened again.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43156477</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43156477</guid>
+            <pubDate>Sun, 04 Mar 2018 00:17:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AE47/production/_100251644_celia_randolph.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is there a problem with unregistered schools?]]></title>
+            <description><![CDATA[Inspectors say there are more than 350 unregistered schools but they have few powers to investigate.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43170447</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43170447</guid>
+            <pubDate>Tue, 27 Feb 2018 18:06:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/065C/production/_100182610_changingroom.jpg"/>
+        </item>
+    </channel>
+</rss>
