@@ -1,4 +1,7 @@
 .idea/
 *.iml
 
+.gradle/
+out/
+
 src/tool/

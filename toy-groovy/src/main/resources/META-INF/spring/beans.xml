@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:lang="http://www.springframework.org/schema/lang"
+       xsi:schemaLocation="
+         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang.xsd">
+
+    <bean id="circle" class="groovy_in_action._16_integratings.spring.Circle">
+        <constructor-arg value="4" />
+        <property name="color" value="Black" />
+    </bean>
+    <bean id="maxareainfo" class="groovy_in_action._16_integratings.spring.MaxAreaInfo" />
+
+    <!--
+        Spring supports dynamic compilation of our Groovy scripts through a
+        special Groovy factory class.
+
+        The namespace lang:groovy accesses the special Groovy factory
+        automatically.
+
+        Spring will automatically compile the necessary Groovy source files.
+
+        Refreshable beans via `refresh-check-delay attribute`:
+
+          Refreshing beans on-the-fly can make development faster, but you
+          should consider disabling it again for production systems.
+          Restarting the system after a change has been made tends to avoid
+          confusing situations where for some period of time (however brief)
+          only *part* of the system has seen the refresh.
+    -->
+    <lang:groovy id="maxareainfo2"
+                 refresh-check-delay="5000"
+                 script-source="classpath:MaxAreaInfo.groovy">
+        <lang:property name="prefix" value="Live Groovy says" />
+    </lang:groovy>
+
+</beans>

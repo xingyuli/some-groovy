@@ -1,0 +1,3 @@
+class MaxAreaInfo {
+    String prefix
+}
